@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  date: MyString
+  time: MyString
+  weight: 1.5
+  person: one
+
+two:
+  type: 
+  date: MyString
+  time: MyString
+  weight: 1.5
+  person: two
